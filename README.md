@@ -29,7 +29,7 @@ https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&start=1600#lt
 <li>Справа нажимаем кнопку "Сохранить".</li></ul>
 <br>
 <b>Как добавить/обновить фильтр из json-строки:</b><br>
-<p>Например: <strong>{"B_parovoz.com":{"img":"(parovoz\\.com\\/gallery)\\/icons(\\/[A-Z0-9]+\\/\\d{8}_\\d{6})-s(\\.jpg)","to":"$1$2$3"}}</strong></p>
+<p>Например: <span style="BORDER-BOTTOM: 1px solid; BORDER-TOP: 1px solid; border-color: red; background-color: #ffffdc; color: maroon">{"B_parovoz.com":{"img":"(parovoz\\.com\\/gallery)\\/icons(\\/[A-Z0-9]+\\/\\d{8}_\\d{6})-s(\\.jpg)","to":"$1$2$3"}}</span></p>
 <ul><li>В настройках Imagus переходим на вкладку "Фильтры".</li>
 <li>Нажимаем кнопку "Импорт" (стрелка вниз).</li>
 <li>Отмечаем параметр "Заменить имеющиеся данные".</li>
