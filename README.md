@@ -21,4 +21,4 @@ https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaa
 https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&start=1600#lt
 <br>
 <br>
-Сборщик списка и автор части фильтров <b>kenko2</b>.
+Сборщик списка и автор части фильтров <b>kenko2</b> (ru-board).
