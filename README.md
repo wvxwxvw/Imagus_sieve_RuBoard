@@ -37,4 +37,10 @@ https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&start=1600#lt
 <li>Нажимаем кнопку "Из текста"</li>
 <li>Справа нажимаем кнопку "Сохранить"</li></ul>
 <br>
-<p>Сборщик списка и автор части фильтров <b>kenko2</b> (ru-board).</p>
+<br>
+<b>Группы фильтров в данном списке:</b><br>
+<ul><li>Без префикса - фильтры из последней версии Imagus</li>
+<li>Префикс "R_" - для фильтров с ru-board</li>
+<li>Префикс "O_" - для фильтров с Reddit и других сторонних источников</li></ul>
+<br>
+<p>Сборщик списка и автор части фильтров <a href="https://forum.ru-board.com/profile.cgi?action=show&member=kenko2"><b>kenko2</b></a> (ru-board).</p>
