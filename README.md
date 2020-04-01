@@ -5,7 +5,7 @@
 <br>
 <b>Фильтры</b> - это расширяемый набор правил для получения изображений, мультимедиа или другого содержимого с бо́льшим разрешением. Он содержит более чем 200 правил по умолчанию, которые поддерживают тысячи сайтов по всему Интернету, в том числе такие популярные, как Reddit/Imgur, Википедию (или любой сайт на основе WikiMedia), deviantART, сервисы Google (Картинки, YouTube, G+, Picasa...), Facebook, Twitter, Flickr...<br>
 <br>
-<b>Старница Imagus:</b><br>
+<b>Страница Imagus:</b><br>
 https://www.reddit.com/r/Imagus/
 <br>
 <br>
@@ -20,6 +20,7 @@ https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaa
 <b>Страница обсуждения пользовательских фильтров:</b><br>
 https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&start=1600#lt
 <br>
+<hr>
 <br>
 <b>Как импортировать фильтры из файла:</b><br>
 <ul><li>В настройках Imagus переходим на вкладку "Фильтры"</li>
@@ -37,6 +38,7 @@ https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&start=1600#lt
 <li>Нажимаем кнопку "Из текста"</li>
 <li>Справа нажимаем кнопку "Сохранить"</li></ul>
 <br>
+<hr>
 <br>
 <b>Группы фильтров в данном списке:</b><br>
 <ul><li>Без префикса - фильтры из последней версии Imagus</li>
