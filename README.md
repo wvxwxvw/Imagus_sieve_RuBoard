@@ -18,7 +18,7 @@ https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaa
 <br>
 <br>
 <b>Страница обсуждения пользовательских фильтров:</b><br>
-https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&start=1600#lt
+https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&glp#lt
 <br>
 <hr>
 <br>
