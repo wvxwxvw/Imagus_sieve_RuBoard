@@ -45,4 +45,4 @@ https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&glp#lt
 <li>Префикс "O_" - для фильтров с Reddit и других сторонних источников</li></ul>
 <br>
 <p>Сборщик списка <a href="https://forum.ru-board.com/profile.cgi?action=show&member=kenko2"><b>kenko2</b></a> (ru-board).</p>
-<p>Авторы фильтров <a href="https://forum.ru-board.com/profile.cgi?action=show&member=Baton34V"><b>Baton34V</b></a>, <a href="https://forum.ru-board.com/profile.cgi?action=show&member=kenko2"><b>kenko2</b></a> (ru-board).</p>
+<p>Авторы фильтров  ru-board <a href="https://forum.ru-board.com/profile.cgi?action=show&member=Baton34V"><b>Baton34V</b></a>.</p>
