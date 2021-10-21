@@ -1,7 +1,7 @@
-/* Для userContent.css */
-
 /* Страница настроек Imagus (Full-style) */
-@-moz-document url-prefix("moz-extension://4c8210cc-3768-4a13-95fb-48705a7a6283") {
+/* Для userContent.css */
+/* В строке ниже замените "uuid" на uuid расширения */
+@-moz-document url-prefix("moz-extension://uuid") {
 html {
 	background: #30323C !important;
   }
