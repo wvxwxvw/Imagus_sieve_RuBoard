@@ -5,7 +5,7 @@
 html {
 	background: #30323C !important;
   }
-body, aside {
+body, aside, #importer {
 	background: rgba(43,42,51,1) !important;
 	background-color: rgba(43,42,51,1) !important;
 	color: #C7C7C7 !important;
@@ -19,14 +19,17 @@ textarea {
 	text-shadow: 0 0 5px #000000 !important;
 	color: #FF5050 !important;
   }
+#sieve_container > .selected > span {
+	background-image: linear-gradient(to bottom, #318CE7 , #2A2A2A 90%) !important;
+  }
 #sieve_container > div:not(.opened) > span:hover {
-	background-image: linear-gradient(to bottom,#2A2A2A,#318CE7 90%) !important;
+	background-image: linear-gradient(to bottom, #2A2A2A , #318CE7 90%) !important;
   }
 #sieve_container > div.opened {
-	background-image: linear-gradient(to bottom,#2A2A2A,#318CE7 90%) !important;
+	background-image: linear-gradient(to bottom, #2A2A2A , #318CE7 90%) !important;
   }
 #sieve_container > .opened > span {
-	background-image: linear-gradient(to bottom,#2A2A2A,#318CE7 90%) !important;
+	background-image: linear-gradient(to bottom, #2A2A2A , #318CE7 90%) !important;
   }
 *|*:any-link:not(svg) {
     color: #799BD5 !important
