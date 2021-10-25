@@ -18,8 +18,11 @@ https://addons.mozilla.org/ru/firefox/addon/imagus
 https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab
   
   
-**Страница обсуждения и запросов пользовательских фильтров:**  
+**Ветка обсуждения и запросов пользовательских фильтров:**  
 https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&glp#lt
+
+**Страница подробностей**  
+https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&start=0&limit=1&m=2#1
   
 ---
   
@@ -67,6 +70,7 @@ Simple Modify Headers это браузерное расширение для п
 На данный момент расширение необходимо для корректной работы фильтров Imagus на сайтах:
  
 * TikTok (внешние ссылки)
+* ImageShack (внутренние альбомы)
  
 Если вы не пользуетесь этими сайтами, то устанавливать данное расширение необходимости нет.
  
