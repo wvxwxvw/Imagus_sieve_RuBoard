@@ -74,11 +74,12 @@ Simple Modify Headers это браузерное расширение для п
  
 На данный момент расширение необходимо для корректной работы фильтров Imagus на сайтах:
  
-* imginn.com (cdninstagram.com)
+* 500px.com
 * files.fm (failiem.lv)
 * Imagefap (видео)
 * ImageShack (внутренние альбомы)
-* Juststream.live (только для Firefox Developer Edition / Nightly и патченой версии Imagus)
+* imginn.com (cdninstagram.com)
+* Juststream.live (только для Firefox Developer Edition/Nightly и патченой версии Imagus с поддержкой HLS/m3u8 от Tustamido)
 * TikTok (для внешних ссылок)
 * YouTube (4 правила) (для внешних ссылок - только для Хромиум-браузеров, FF работает с ними и без SMH) 
  
