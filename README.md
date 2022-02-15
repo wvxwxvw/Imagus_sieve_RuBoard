@@ -73,16 +73,18 @@ Simple Modify Headers это браузерное расширение для п
 <a href="https://addons.mozilla.org/ru/firefox/addon/simple-modify-header" target="_blank">Версия для Firefox и лисоклонов</a>
  
 На данный момент расширение необходимо для корректной работы фильтров Imagus на сайтах:
- 
-* 500px.com
-* files.fm (failiem.lv)
-* Imagefap (видео)
-* ImageShack (внутренние альбомы)
-* imginn.com (cdninstagram.com)
-* instagram.com (cdninstagram.com) (внешние ссылки и фреймы)
-* Juststream.live (только для Firefox Developer Edition/Nightly и патченой версии Imagus с поддержкой HLS/m3u8 от Tustamido)
-* TikTok (для внешних ссылок)
-* YouTube (4 правила) (для внешних ссылок - только для Хромиум-браузеров, FF работает с ними и без SMH) 
+  
+• 500px.com (для авторизованных пользователей)  
+• files.fm (failiem.lv)  
+• imagefap.com (видео)  
+• imageshack.com (внутренние альбомы)  
+• imagetwist.com  
+• imginn.com (cdninstagram.com)  
+• instagram.com (cdninstagram.com) (внешние ссылки и фреймы)  
+• juststream.live (только для Firefox Developer Edition/Nightly и патченой версии Imagus с поддержкой HLS/m3u8 от Tustamido)  
+• pixiv.net (pximg.net) (внешние ссылки)  
+• TikTok (внешние ссылки) - возможно, уже не нужен?  
+• YouTube (4 правила) (внешние ссылки - только для Хромиум-браузеров, в FF фильтр работает и без SMH)  
   
 Если вы не пользуетесь этими сайтами или вам не нужны именно эти фильтры, то устанавливать данное расширение необходимости нет.
  
@@ -90,3 +92,9 @@ Simple Modify Headers это браузерное расширение для п
 Забрать его можно в последнем архиве папки "archive".
   
 !!! Перед импортом все старые правила (если они есть) будут удалены, такова особенность расширения.
+  
+---
+  
+### Обращаю внимание пользователей Firefox
+  
+Все правила для SMH которые с {"header_name": "referer"} прекрасно работают и в [Referer Modifier](https://addons.mozilla.org/ru/firefox/addon/referer-modifier/)
