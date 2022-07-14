@@ -1,4 +1,6 @@
-# Imagus_sieve_RuBoard  
+
+![Alt text](https://github.com/wvxwxvw/Imagus_sieve_RuBoard/blob/master/imagus.webp "a title")  
+  
 Фильтры для Imagus - комплект - оригинальные + с Reddit + c Ru-Board  
   
 **Imagus** - это расширение для браузеров которое увеличивает миниатюры и показывает изображения/видео при наведении курсора мыши на ссылки / миниатюры.  
