@@ -77,18 +77,20 @@ Simple Modify Headers это браузерное расширение для п
 На данный момент расширение необходимо для корректной работы фильтров Imagus на сайтах:
   
 • 500px.com (для авторизованных пользователей)  
-• files.fm (failiem.lv)  
-• imagefap.com (видео)  
-• imageshack.com (внутренние альбомы)  
-• imageshimage.com  
-• imagenpic.com  
-• imagetwist.com  
-• imginn.com (cdninstagram.com)  
-• instagram.com (cdninstagram.com) (внешние ссылки и фреймы)  
-• juststream.live (только для Firefox Developer Edition/Nightly и патченой версии Imagus с поддержкой HLS/m3u8 от Tustamido)  
-• pixiv.net (pximg.net) (внешние ссылки)  
-• pixroute.com  
-• stream.kick.com  
+• Archived.moe (archiveofsins.com)  
+• EroMe.com  
+• Files.fm (failiem.lv)  
+• Gammacdn.com (Gamma Entertainment)  
+• ImageFap.com (видео)  
+• ImageNpic.com  
+• ImageShack.com (внутренние альбомы)  
+• Imageshimage.com  
+• ImageTwist.com  
+• Imginn.com (cdninstagram.com)  
+• Instagram.com (cdninstagram.com) (внешние ссылки и фреймы)  
+• Kick.com (VoD)  
+• Pixiv.net (pximg.net) (внешние ссылки)  
+• Pixroute.com  
 • TikTok (внешние ссылки) - возможно, уже не нужен?  
 • YouTube (4 правила) (внешние ссылки - только для Хромиум-браузеров, в FF фильтр работает и без SMH)  
   
