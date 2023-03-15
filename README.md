@@ -88,6 +88,7 @@ Simple Modify Headers это браузерное расширение для п
 • juststream.live (только для Firefox Developer Edition/Nightly и патченой версии Imagus с поддержкой HLS/m3u8 от Tustamido)  
 • pixiv.net (pximg.net) (внешние ссылки)  
 • pixroute.com  
+• stream.kick.com  
 • TikTok (внешние ссылки) - возможно, уже не нужен?  
 • YouTube (4 правила) (внешние ссылки - только для Хромиум-браузеров, в FF фильтр работает и без SMH)  
   
