@@ -25,11 +25,11 @@ https://addons.mozilla.org/ru/firefox/addon/imagus
 https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab
   
   
-**Ветка обсуждения и запросов пользовательских фильтров:**  
+**Ветка обсуждения и запросов:**  
 https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&glp#lt
 
-**Страница подробностей**  
-https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&start=0&limit=1&m=2#1
+**ЧаВо:**  
+https://forum.ru-board.com/topic.cgi?forum=5&topic=50874&start=0&limit=1&m=6#1
   
 ---
   
