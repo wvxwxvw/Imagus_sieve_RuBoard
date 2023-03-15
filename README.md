@@ -53,13 +53,18 @@ https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&start=0&limit=1&m=2#1
   
 ---
   
-**Группы фильтров в данном списке:**  
-* Без префикса - фильтры из последней версии Imagus
-* Префикс "R_" - для фильтров с ru-board
-* Префикс "O_" - для фильтров с Reddit и других сторонних источников
+**Идентификаторы в названии фильтров:**  
+* R_ (Ru-Board) - фильтры с Ру-Борд  
+* O_ (Other) - фильтры из других источников (в основном с Reddit)  
+* -b (bad) - неисправные фильтры (на данный момент)  
+* -x (xxx) - сайты с NSFW-контентом  
   
-Сборщик комплекта фильтров <a href="https://forum.ru-board.com/profile.cgi?action=show&member=kenko2" target="_blank">**kenko2** (ru-board)</a>.  
-Автор фильтров ru-board <a href="https://forum.ru-board.com/profile.cgi?action=show&member=Baton34V">**Baton34V**</a>.
+**Кто разработчик фильтра?**  
+  
+Автор фильтра указан в самом фильтре в самой первой строке его раздела "notes". Там же указана и ссылка на оригинал фильтра (где он был опубликован). Если же автор не указан, значит это фильтр самого разработчика Imagus (как правило, это самые старые фильтры, они находятся в конце списка на вкладке Фильтры и не имеют префикса).  
+  
+Сборщик этого комплекта фильтров <a href="https://forum.ru-board.com/profile.cgi?action=show&member=kenko2" target="_blank">**kenko2** (ru-board)</a>.  
+Автор многих фильтров ru-board <a href="https://forum.ru-board.com/profile.cgi?action=show&member=Baton34V" target="_blank">**Baton34V** (ru-board)</a>.
   
 ---
   
