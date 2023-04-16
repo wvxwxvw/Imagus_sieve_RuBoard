@@ -13,23 +13,15 @@
 Множественный выбор фильтров по Ctrl+ЛКМ, далее можете переключить их состояние скопом кнопкой Ø.
 
   
-**Страница Imagus:**  
-https://www.reddit.com/r/Imagus/
+[Страница Imagus:](https://www.reddit.com/r/Imagus/)  
+[Imagus для Firefox:](https://addons.mozilla.org/ru/firefox/addon/imagus)  
+[Imagus для Chrome:](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)  
   
+[Imagus Mod для FireFox](https://addons.mozilla.org/firefox/addon/imagus-mod/)  
+[Imagus Mod для Chrome](https://github.com/TheFantasticWarrior/chrome-extension-imagus/releases)  
   
-**Расширение для Firefox:**  
-https://addons.mozilla.org/ru/firefox/addon/imagus
-  
-  
-**Расширение для Chrome:**  
-https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab
-  
-  
-**Ветка обсуждения и запросов:**  
-https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&glp#lt
-
-**ЧаВо:**  
-https://forum.ru-board.com/topic.cgi?forum=5&topic=50874&start=0&limit=1&m=6#1
+[Ветка обсуждения и запросов:](htts://forum.ru-board.com/topic.cgi?forum=5&topic=48222&glp#lt)  
+[Чаво](ttps://forum.ru-board.com/topic.cgi?forum=5&topic=50874&start=0&limit=1&m=6#1)  
   
 ---
   
