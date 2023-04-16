@@ -18,7 +18,7 @@
 <a href="https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab" target="_blank">Imagus для Chrome</a>  
   
 <a href="https://addons.mozilla.org/firefox/addon/imagus-mod/" target="_blank">Imagus Mod для FireFox</a>  
-<a href="https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab" target="_blank">Imagus для Chrome</a>  
+<a href="https://github.com/TheFantasticWarrior/chrome-extension-imagus/releases" target="_blank">Imagus Mod для Chrome</a>  
   
 <a href="https://forum.ru-board.com/topic.cgi?forum=5&topic=48222&glp#lt" target="_blank">Ветка обсуждения и запросов</a>  
 <a href="https://forum.ru-board.com/topic.cgi?forum=5&topic=50874&start=0&limit=1&m=6#1" target="_blank">Чаво</a>  
