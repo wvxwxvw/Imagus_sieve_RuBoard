@@ -73,23 +73,25 @@ Simple Modify Headers это браузерное расширение для п
  
 На данный момент расширение необходимо для корректной работы фильтров Imagus на сайтах:
 ```
-• 500px.com (для авторизованных пользователей)  
-• Archived.moe (archiveofsins.com)  
-• EroMe.com  
-• Files.fm (failiem.lv)  
-• Gammacdn.com (Gamma Entertainment)  
-• ImageFap.com (видео)  
-• ImageNpic.com  
-• ImageShack.com (внутренние альбомы)  
-• Imageshimage.com  
-• ImageTwist.com  
-• Imginn.com (cdninstagram.com)  
-• Instagram.com (cdninstagram.com) (внешние ссылки и фреймы)  
-• Kick.com (VoD)  
-• Pixiv.net (pximg.net) (внешние ссылки)  
-• Pixroute.com  
-• TikTok (внешние ссылки) - возможно, уже не нужен?  
-• YouTube (4 правила) (внешние ссылки - только для Хромиум-браузеров, в FF фильтр работает и без SMH)  
+• 500px.com (для авторизованных пользователей)
+• Archived.moe (archiveofsins.com)
+• EroMe.com
+• Files.fm (failiem.lv)
+• Gammacdn.com (Gamma Entertainment)
+• Happy-Team.org
+• ImageFap.com (видео)
+• ImageNpic.com
+• ImageShack.com (внутренние альбомы)
+• Imageshimage.com
+• ImageTwist.com
+• ImgHost.pl
+• Instagram.com (cdninstagram.com) (внешние ссылки и фреймы)
+• Kick.com (VoD)
+• Pixiv.net (pximg.net) (внешние ссылки)
+• Pixroute.com
+• TikTok (внешние ссылки) - возможно, уже не нужен?
+• YouTube (4 правила) (внешние ссылки - только для Хромиум-браузеров, в FF фильтр работает и без SMH)
+• Zapodaj.net
 ```
 Если вы не пользуетесь этими сайтами или вам не нужны именно эти фильтры, то устанавливать данное расширение необходимости нет.
  
